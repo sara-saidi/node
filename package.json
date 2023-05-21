@@ -1,0 +1,17 @@
+{
+  "name": "check-point",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sarra saidi",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.2",
+    "nodemon": "^2.0.22",
+    "uuidv4": "^6.2.13"
+  }
+}
